@@ -1,0 +1,191 @@
+Environment: 
+Window 10 pro
+Device Name: SM-G973F
+S/N: RF8M220CLPP
+OS: Android
+Manufacture: Samsung
+Model: SM-G973F
+Version: 11
+Screen size: 1080x2280
+FloowDrive App Version: 9.0.2
+
+Prerequisite:
+
+Demo - Manual test approach to test FloowDrive.
+
+Note:
+This test plan is written without a client's requirement.
+
+This test is only based on functional testing. This are normal expected behaviour.
+
+=====================================================
+Step 1: Install FloowDrive application and double tap the FloorDrive icon.
+
+Expected Result: 
+1} A user is able to download the FloowDrive application.
+2) A registration form page is opened.
+3) Already Register button is available for already registered user to sign in
+                 
+
+Actual result: As expected result.
+
+Test Outcome: Passed.
+
+======================================================
+
+Step 2: Fields Validation check test.
+Check all registration fields with i.e., blank field name, invalid post code, invalid email address i.e., "testing@testing--com" etc.
+Click the "Register" button.
+
+Expected Result:
+(A) Validation error message is prompted at the bottom of each field i.e., for email address field = Please enter a valid email address.
+(B) A user is not able to create an account.
+
+Actual Result: When a wrong format email address is entered i.e., "sample@sample--com" = (Email field indicated "Green tick") Bug - No validation check against the email field.
+
+(Is this an expected behaviour?)
+
+Test Result: Partial pass (Review Required).
+
+======================================================
+Step 3: Populated the registration fields with a valid value and tick the radio button to accept terms & condition.
+
+Expected Result: A user is successfully registered.
+                 
+
+Actual result: As expected result.
+
+Test Outcome: Passed.
+
+======================================================
+Step 4: Enter a valid email address with a wrong password
+
+Expected Result: Login is rejected.        
+
+Actual result: As expected result.
+
+Test Outcome: Passed.
+
+======================================================
+Step 5: Enter a valid email address with a valid password.
+
+Expected Result: Login is accepted.        
+
+Actual result: As expected result.
+
+Test Outcome: Passed.
+
+======================================================
+Step 6: Use the pause button to suspend recording for a specific preferable hour(s)/day(s).
+
+Expected Result: Recording is started after time/day set countdown lapsed.
+
+Actual Result: As expected result.
+
+Test Result: Passed.
+
+=======================================================
+
+Step 7: Use the right and the left arrow to navigate all activities recorded during driving.
+
+Expected Result: A user is able to navigate forward and backward.
+
+Actual Result: As expected result.
+
+Test Result: Passed
+
+=======================================================
+
+Step 8: Select all driving activities recorded.
+
+Expected Result: Driving activity pop up note is prompted with its activity description.
+
+Actual Result: As expected result.
+
+Test Result: Passed.
+
+=======================================================
+
+Step 9: Screen resolution.
+A) Test application in portrait screen mode.
+B) Test application in rotate screen mode.
+
+Expected Result:
+1) No truncated text.
+2) All features are still accessible. 
+
+Actual Result: As expected result.
+
+Test Result: Passed.
+
+======================================================
+
+Step 10: Set percentage for low battery. 
+
+Expected Result: A message "Battery too low" pop up warning note is prompted.
+
+Actual Result: As expected result.
+
+Test Result: Passed.
+
+=======================================================
+
+Step 11: Click the "X" button to close.
+
+Expected Result: Battery too low pop up warning note is closed.
+
+Actual Result: As expected result.
+
+Test Result: Passed
+
+=========================================================
+
+Step 12: Open the "FloowDrive" application while driving/in motion.
+
+Expected Result: A "Warning" prompted message "Don't use your phone while driving" message is prompted.
+
+Actual Result: As expected result.
+
+Test Result: Passed.
+
+==========================================================
+Step 13: Click the "Close" button.
+
+Expected Result: Command is accepted.
+
+Actual Result: As expected result.
+
+Test Result: Passed.
+
+=========================================================
+
+Step 14: Select journey recorded.
+
+Expected Result: A map with a journey distance point "A" to "B" with an indication of all activities performed by the driver can be accessed.
+
+Actual Result: As expected result.
+
+Test Result: Passed.
+==========================================================
+
+Step 15: Select all activities icons performed by the driver to view detail.
+
+Expected Result: All activities performed by the driver can be accessed.
+
+Actual Result: As expected result.
+
+Test Result: Passed
+
+================================
+
+Step 16: Select "More" button -> About -> click the "Log out" button.
+
+Expected Result: Use is logged out.
+
+Actual Result: As expected result.
+
+Test Result: Passed.
+
+=================================
+
+
