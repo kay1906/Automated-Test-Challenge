@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<test_report>
+<info>
+<test_info>
+<test_status>OK</test_status>
+<time_zone>Greenwich Mean Time</time_zone>
+<run_started>Tue, 15 Jun 2021 23:31:22</run_started>
+<total_time>00:00:47.743</total_time>
+<project>C:\Users\kayka\workspace\appium-project</project>
+<user>Kayode</user>
+<machine_name>kayode</machine_name>
+</test_info>
+<device_info>
+<device_name>SM-G973F</device_name>
+<manufacture>samsung</manufacture>
+<model>SM-G973F</model>
+<os>Android</os>
+<serial_number>RF8M220CLPP</serial_number>
+<version>11</version>
+<versionMajor>11.x</versionMajor>
+<screen_size>1080x2280</screen_size>
+</device_info>
+</info>
+<reports>
+<report>
+<text>C:\Users\kayka\appiumstudio-reports\test27</text>
+<line>Start test Untitled</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>0.PNG</imageFile>
+<text>Device Information&lt;br&gt;
+Name: SM-G973F&lt;br&gt;
+S/N: RF8M220CLPP&lt;br&gt;
+OS: Android&lt;br&gt;
+Manufacture: samsung&lt;br&gt;
+Model: SM-G973F&lt;br&gt;
+Version: 11&lt;br&gt;
+Screen size: 1080x2280&lt;br&gt;
+Connected to: 127.0.0.1:5037&lt;br&gt;
+</text>
+<line>Set device to: adb:SM-G973F</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>1.PNG</imageFile>
+<line>Set property android.native.nonInstrumented to: true</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>2.PNG</imageFile>
+<secondImageFile>3.PNG</secondImageFile>
+<line>Click 'xpath=//*[@id='btn_next']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>4.PNG</imageFile>
+<secondImageFile>5.PNG</secondImageFile>
+<line>Click 'xpath=//*[@id='btn_next']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>6.PNG</imageFile>
+<secondImageFile>7.PNG</secondImageFile>
+<line>Click 'xpath=//*[@id='btn_next']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>8.PNG</imageFile>
+<secondImageFile>9.PNG</secondImageFile>
+<line>Click 'xpath=//*[@id='btn_next']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>10.PNG</imageFile>
+<secondImageFile>11.PNG</secondImageFile>
+<line>Click 'xpath=//*[@id='btn_next']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>12.PNG</imageFile>
+<secondImageFile>13.PNG</secondImageFile>
+<line>Click 'xpath=//*[@id='dial']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>14.PNG</imageFile>
+<secondImageFile>15.PNG</secondImageFile>
+<line>Click 'xpath=//*[@id='btn_close_popup']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>16.PNG</imageFile>
+<secondImageFile>17.PNG</secondImageFile>
+<line>Click 'xpath=//*[@id='btn_prev']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>18.PNG</imageFile>
+<secondImageFile>19.PNG</secondImageFile>
+<line>Click 'xpath=//*[@text='85']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>20.PNG</imageFile>
+<secondImageFile>21.PNG</secondImageFile>
+<line>Click 'xpath=//*[@id='btn_close_popup']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>22.PNG</imageFile>
+<secondImageFile>23.PNG</secondImageFile>
+<line>Click 'xpath=//*[@id='btn_prev']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>24.PNG</imageFile>
+<secondImageFile>25.PNG</secondImageFile>
+<line>Click 'xpath=//*[@text='81']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>26.PNG</imageFile>
+<secondImageFile>27.PNG</secondImageFile>
+<line>Click 'xpath=//*[@id='btn_close_popup']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>28.PNG</imageFile>
+<secondImageFile>29.PNG</secondImageFile>
+<line>Click 'xpath=//*[@id='btn_prev']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>30.PNG</imageFile>
+<secondImageFile>31.PNG</secondImageFile>
+<line>Click 'xpath=//*[@text='70']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>32.PNG</imageFile>
+<secondImageFile>33.PNG</secondImageFile>
+<line>Click 'xpath=//*[@id='btn_close_popup']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>34.PNG</imageFile>
+<secondImageFile>35.PNG</secondImageFile>
+<line>Click 'xpath=//*[@id='btn_prev']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>36.PNG</imageFile>
+<secondImageFile>37.PNG</secondImageFile>
+<line>Click 'xpath=//*[@text='56']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>38.PNG</imageFile>
+<secondImageFile>39.PNG</secondImageFile>
+<line>Click 'xpath=//*[@id='btn_close_popup']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>40.PNG</imageFile>
+<secondImageFile>41.PNG</secondImageFile>
+<line>Click 'xpath=//*[@id='btn_prev']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>42.PNG</imageFile>
+<secondImageFile>43.PNG</secondImageFile>
+<line>Click 'xpath=//*[@text='67']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>44.PNG</imageFile>
+<secondImageFile>45.PNG</secondImageFile>
+<line>Click 'xpath=//*[@id='btn_close_popup']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>46.PNG</imageFile>
+<text>Found: true</text>
+<line>Wait for 'xpath=//*[@id='btn_dashboard_pause']' in zone NATIVE, timeout: 30000</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>47.PNG</imageFile>
+<secondImageFile>48.PNG</secondImageFile>
+<line>Click 'xpath=//*[@id='btn_dashboard_pause']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>49.PNG</imageFile>
+<secondImageFile>50.PNG</secondImageFile>
+<line>Click 'xpath=//*[@id='pause_slider']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>51.PNG</imageFile>
+<secondImageFile>52.PNG</secondImageFile>
+<line>Click 'xpath=//*[@id='pause_slider']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>53.PNG</imageFile>
+<secondImageFile>54.PNG</secondImageFile>
+<line>Drag from: X1: 455, Y1: 623, to X2: 985, Y2: 617</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>55.PNG</imageFile>
+<secondImageFile>56.PNG</secondImageFile>
+<line>Drag from: X1: 947, Y1: 602, to X2: 88, Y2: 605</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>57.PNG</imageFile>
+<secondImageFile>58.PNG</secondImageFile>
+<line>Drag from: X1: 126, Y1: 605, to X2: 379, Y2: 561</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>59.PNG</imageFile>
+<secondImageFile>60.PNG</secondImageFile>
+<line>Click 'xpath=//*[@text='Restart recording']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>61.PNG</imageFile>
+<secondImageFile>62.PNG</secondImageFile>
+<line>Click 'xpath=//*[@id='btn_close_pause_layout']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>63.PNG</imageFile>
+<secondImageFile>64.PNG</secondImageFile>
+<line>Click 'xpath=//*[@id='icon' and ./parent::*[@contentDescription='JourneyList']]' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>65.PNG</imageFile>
+<secondImageFile>66.PNG</secondImageFile>
+<line>Click 'xpath=//*[@class='android.widget.RelativeLayout' and ./*[@id='rl0' and ./*[@id='dial_score' and ./*[./*[@text='58']]]]]' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>67.PNG</imageFile>
+<secondImageFile>68.PNG</secondImageFile>
+<line>Click 'xpath=//*[@class='android.view.ViewGroup' and ./*[@text='17:13'] and ./*[@id='divider_1'] and ./parent::*[./parent::*[@id='cardContentView']]]' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>69.PNG</imageFile>
+<secondImageFile>70.PNG</secondImageFile>
+<line>Click 'xpath=//*[@id='rl' and ./parent::*[./parent::*[./parent::*[@id='cardContentView']]] and (./preceding-sibling::* | ./following-sibling::*)[./*[./*[./*[@text='58']]]] and ./*[@text='Yesterday, Mon, 14 Jun']]' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>71.PNG</imageFile>
+<text>Found: true</text>
+<line>Wait for 'xpath=//*[@id='navigation_back']' in zone NATIVE, timeout: 10000</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>72.PNG</imageFile>
+<secondImageFile>73.PNG</secondImageFile>
+<line>Click 'xpath=//*[@id='navigation_back']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>74.PNG</imageFile>
+<text>Found: true</text>
+<line>Wait for 'xpath=//*[@id='icon' and ./parent::*[@contentDescription='More']]' in zone NATIVE, timeout: 10000</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>75.PNG</imageFile>
+<secondImageFile>76.PNG</secondImageFile>
+<line>Click 'xpath=//*[@id='icon' and ./parent::*[@contentDescription='More']]' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>77.PNG</imageFile>
+<secondImageFile>78.PNG</secondImageFile>
+<line>Click 'xpath=//*[@id='icon' and ./parent::*[@contentDescription='Dashboard']]' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>79.PNG</imageFile>
+<line>End Test</line>
+<status>true</status>
+</report>
+</reports>
+</test_report>
