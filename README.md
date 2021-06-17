@@ -1,5 +1,8 @@
-# Automated-Test-Challenge for:
+# Automated-Test-Challenge demo for:
 * FloowDrive mobile application
+
+# Language:
+* Java
 
 # Introduction
 * FloowDrive is a mobile application that records and assesses a driver habits when driving.
@@ -21,10 +24,4 @@
 # Environment
 * Window 10
 * Appium Studio
-* Appium
-* SeleniumWebDriver installation.
-* Selenium Client & WebDriver Language Bindings - Java
-* Selenium Server (Grid)
-* ADB Driver
-* Node.JS
-etc.....
+* Eclipse
